@@ -19,6 +19,3 @@
 
 * 使用後者異於前者的部分產生相同格式的新圖檔 ans_two.png
 
-## Reference
-
-* [原始課程作業說明](https://docs.google.com/presentation/d/1wQ4H_JbFkFzKhLhBrRa_tfBJOhb2JAk5bBeMWf_I-7U/edit#slide=id.p)
