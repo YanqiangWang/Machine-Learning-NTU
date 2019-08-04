@@ -34,3 +34,7 @@
   ![](https://github.com/dafish-ai/NTU-Machine-learning/blob/master/李宏毅机器学习-作业/week2/pictures/1.6.png)
 
 第四步： Part 4： 看懂 Gradient descent 函数代码，自己仿写
+
+## 4. 作业代码及运行结果展示：
+
+[Notebook运行结果](https://github.com/YanqiangWang/Machine-Learning-NTU/tree/master/week2/output)
