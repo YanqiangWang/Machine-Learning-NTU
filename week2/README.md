@@ -37,4 +37,4 @@
 
 ## 4. 作业代码及运行结果展示：
 
-[Notebook运行结果](https://github.com/YanqiangWang/Machine-Learning-NTU/tree/master/week2/output)
+[Jupyter Notebook运行结果](https://github.com/YanqiangWang/Machine-Learning-NTU/tree/master/week2/output)
